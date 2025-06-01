@@ -20,7 +20,7 @@ This repository contains two C++ implementations of common data structures:
 - Uses a **hash map** to store key → node mappings for O(1) access.
 
 ### Example Usage
-```cpp
+``cpp
 LRUCache cache(2);
 cache.put(1, 1);
 cache.put(2, 2);
