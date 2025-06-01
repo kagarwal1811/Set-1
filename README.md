@@ -150,4 +150,3 @@ Before running Book App, ensure your development environment includes:
 
 ---
 
-Thank you.  
