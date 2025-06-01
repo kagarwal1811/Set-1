@@ -1,3 +1,12 @@
+# LRUCache & MyHashMap in C++
+
+This repository contains two C++ implementations of common data structures:
+
+1. **LRUCache.cpp** – Implements a Least Recently Used (LRU) Cache.  
+2. **MyHashMap.cpp** – Implements a basic Hash Map without using `std::map` or `std::unordered_map`.
+
+---
+
 ## LRUCache
 
 ### Description
@@ -11,6 +20,7 @@
 - Uses a **hash map** to store key → node mappings for O(1) access.
 
 ### Example Usage
+```cpp
 LRUCache cache(2);
 cache.put(1, 1);
 cache.put(2, 2);
@@ -26,7 +36,7 @@ This repository contains a C++ implementation of a simple Hash Map without using
 
 ## Description
 
-MyHashMap` is a custom-built data structure that stores integer key-value pairs. It supports:
+`MyHashMap` is a custom-built data structure that stores integer key-value pairs. It supports:
 
 - `put(key, value)` → Inserts or updates the key-value pair.
 - `get(key)` → Returns the value if the key exists, otherwise returns -1.
