@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.bookreview.app-debug-4:/raw_booklist.json.flat",
+        "source": "com.bookreview.app-main-6:/raw/booklist.json"
+    },
+    {
+        "merged": "com.bookreview.app-debug-4:/layout_activity_book_list.xml.flat",
+        "source": "com.bookreview.app-main-6:/layout/activity_book_list.xml"
+    },
+    {
+        "merged": "com.bookreview.app-debug-4:/layout_activity_book_detail.xml.flat",
+        "source": "com.bookreview.app-main-6:/layout/activity_book_detail.xml"
+    },
+    {
+        "merged": "com.bookreview.app-debug-4:/layout_row_book.xml.flat",
+        "source": "com.bookreview.app-main-6:/layout/row_book.xml"
+    }
+]

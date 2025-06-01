@@ -1,0 +1,18 @@
+[
+  {
+    "id": "b1",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "thumbUrl": "",
+    "description": "A Handbook of Agile Software Craftsmanship...",
+    "rating": 4.7
+  },
+  {
+    "id": "b2",
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt & David Thomas",
+    "thumbUrl": "",
+    "description": "Classic tips for programmers...",
+    "rating": 4.6
+  }
+]

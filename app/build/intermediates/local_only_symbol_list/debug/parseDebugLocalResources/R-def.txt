@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+id author
+id btnFav
+id desc
+id progress
+id rating
+id recycler
+id title
+layout activity_book_detail
+layout activity_book_list
+layout row_book
+raw booklist
+style Theme.App
